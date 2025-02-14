@@ -53,3 +53,7 @@ The website will show this information in real-time and allow users to view the 
 
 - Implement an option to filter vehicle counts by different periods (e.g., the past hour, day, or week). 
 - Design the system to scale with increasing data volume from multiple LED signs.
+
+---
+
+Please share your work using a GitHub repository with @BIG-BDGE
