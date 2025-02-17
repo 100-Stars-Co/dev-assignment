@@ -56,4 +56,6 @@ The website will show this information in real-time and allow users to view the 
 
 ---
 
-Please share your work using a GitHub repository with @BIG-BDGE
+**Note I:** Please share your work using a GitHub repository with the following individuals: @100starsco, @BIG-BDGE, and @puvanath.
+
+**Note II:** Ensure that the implementation is written in TypeScript.
