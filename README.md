@@ -29,11 +29,12 @@ The website will show this information in real-time and allow users to view the 
     - Data will include the vehicle type and color.
     - The system should aggregate and store vehicle counts per vehicle type and color.
     - The user should be able to query the vehicle count for a selected period (e.g., hourly, daily).
+
 2. **Database Structure:**
     - Create a database schema to store vehicle data, with fields for:
-    - Vehicle type
-    - Vehicle color
-    - Timestamp
+        - Vehicle type
+        - Vehicle color
+        - Timestamp
     - Design the database schema to support efficient querying by vehicle type, color, and period.
 
 3. **API Design:**
@@ -43,10 +44,13 @@ The website will show this information in real-time and allow users to view the 
    - Use mock data if the database is not yet implemented.
 
 4. **Frontend Display:**
-
    - The website should show the aggregated vehicle counts for each type and color. 
    - The display should update in real time as new data is processed.
-
+   - Please be strict with the following tools: 
+        - Framework: NextJS
+        - Language: Typescript
+        - CSS: pure TailwindCSS (No UI framework) or pure CSS/SCSS
+        - Other utility packages: dayjs, lodash, clsx, etc.
 ---
 
 **Extra Points:**
